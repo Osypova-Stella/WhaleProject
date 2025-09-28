@@ -10,3 +10,23 @@ The whale is displayed in different versions – blue, dark blue, gray – to sh
    
 Run the project:
 python whale_swim.py
+
+## Example screenshots
+
+<table>
+  <tr>
+    <td rowspan="2">
+      <img src="grwh.png" alt="Gray Whale" width="250"/>
+    </td>
+    <td>
+      <img src="blwh.png" alt="Blue Whale" width="250"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="golwh.png" alt="Cyan Whale" width="250"/>
+    </td>
+  </tr>
+</table>
+
+
